@@ -1,6 +1,5 @@
 # Flashify
 ## The Accessible Learning App
-Hackathon Project for Hack36 happened at MNNIT, Allahabad , India
 
 The app is WIP and is a flash card app for undergrduate and school students
 
@@ -29,11 +28,10 @@ The application is built using React on the frontend and Node.js (Express) at th
 https://imgur.com/a/usoD1qZ
 
 ## Team
-Siddhant :- http://siddhantm.me
 
-Shakti
+Shakti Singh
 
-Alok
+Nikhil Sharma
 
 ## Thanks
 Suggestions are improvements are always open
